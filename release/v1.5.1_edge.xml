@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="git@github.com:sophgo/" review="git@github.com:sophgo/"/>
+    <default revision="bm1688" remote="origin" sync-j="4"/>
+    <project name="host-tools" revision="master" clone-depth="1"/>
+    <project name="build" revision="ce381c78ea0335cd6628d1dd298a50e23fa4cdf0"/>
+    <project name="u-boot-2021.10" revision="b365eade747f082c71312f31bffbeee44cc254f8"/>
+    <project name="linux_5.10" revision="1bbb12aa551af589b01f2d9f469c19ced835920c"/>
+    <project name="osdrv" revision="9f39e1dec0c40103dba08b4dd8e1fa81a1120194"/>
+    <project name="middleware" revision="a21d69530c17aa16edfb077a34d9607c7488dfb8"/>
+    <project name="isp" path="middleware/v2/modules/isp" revision="a3b9314f2967576aae6ab98f6b2112868a62dc93"/>
+    <project name="isp_tuning" revision="b2c2ab69446b9b279b3c60cb39b94dcdbf60b530"/>
+    <project name="ramdisk" revision="7aee79b179445c2c2b7aa2964a5499b8fe1f823d"/>
+    <project name="fsbl" revision="169c60edb7c34fb64e207ed8921589183bc68192"/>
+    <project name="oss" revision="d57a72f6a7bd9609a613fbbeb9dac93eff91b82b"/>
+    <project name="cvi_rtsp" revision="f2d21a3e13a6723503ad0ce9c162888997dc867c"/>
+    <project name="sophliteos" revision="e660c24d37e41890d5c04bd75ab9644dafbe1986"/>
+    <project name="libsophon" revision="71865780b52391a25d136097c5d523a575100498"/>
+    <project name="libsophav" path="libsophon/libsophav" revision="4a29220a9bd106dec73d25558acf8456a9464901"/>
+    <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="9edb4ea4a8388b1ee19d25cc6ad192d79810c5bb"/>
+    <project name="focal" path="ubuntu/distro" revision="1643f03024119389a0e670a2c11605ccd7503ec7"/>
+    <project name="sophon_media" revision="bade2ba4348a964ddc3c81da07cee47c57f53253"/>
+    <project name="libsophav" path="sophon_media/libsophav" revision="4a29220a9bd106dec73d25558acf8456a9464901"/>
+</manifest>
