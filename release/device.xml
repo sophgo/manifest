@@ -16,4 +16,5 @@
     <project name="cvi_rtsp" revision="master"/>
     <project name="libsophon"/>
     <project name="libsophav" path="libsophon/libsophav" revision="main"/>
+    <project name="cviai" revision="master"/>
 </manifest>
