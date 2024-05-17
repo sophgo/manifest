@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="origin" fetch="git@github.com:sophgo/" review="git@github.com:sophgo/"/>
-    <default revision="bm1688" remote="origin" sync-j="4"/>
+    <default revision="bm1688" remote="origin" sync-j="4" clone-depth="1"/>
     <project name="host-tools" revision="master" clone-depth="1"/>
     <project name="build" revision="ce381c78ea0335cd6628d1dd298a50e23fa4cdf0"/>
     <project name="u-boot-2021.10" revision="b365eade747f082c71312f31bffbeee44cc254f8"/>
