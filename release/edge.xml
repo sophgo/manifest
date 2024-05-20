@@ -18,7 +18,6 @@
     <project name="libsophon"/>
     <project name="libsophav" path="libsophon/libsophav" revision="main"/>
     <project name="bootloader-arm64" path="ubuntu/bootloader-arm64"/>
-    <project name="focal" path="ubuntu/distro" revision="master"/>
     <project name="sophon_media" revision="master"/>
     <project name="libsophav" path="sophon_media/libsophav" revision="main"/>
 </manifest>
