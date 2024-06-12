@@ -17,7 +17,7 @@
     <project name="sophliteos" revision="A2"/>
     <project name="libsophon"/>
     <project name="libsophav" path="libsophon/libsophav" revision="main"/>
-    <project name="bootloader-arm64" path="ubuntu/bootloader-arm64"/>
+    <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="bm1688_dev"/>
     <project name="sophon_media" revision="master"/>
     <project name="libsophav" path="sophon_media/libsophav" revision="main"/>
 </manifest>
