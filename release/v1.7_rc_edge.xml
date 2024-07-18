@@ -5,7 +5,7 @@
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
   <project dest-branch="bm1688" name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="61de730ffca2f294e22b1ef0cd1e2605636a38b9" upstream="bm1688"/>
-  <project dest-branch="bm1688" name="build" revision="b95067d5a1653d755fd82443edf8b571d8e4c6f6" upstream="bm1688"/>
+  <project dest-branch="bm1688" name="build" revision="31d81b1c9b7bd5f43b7e4448ab669be0db5f4e1c" upstream="bm1688"/>
   <project dest-branch="master" name="cvi_rtsp" revision="3c085f5e819b0f376e79e58e8cc468ce06b2c17e" upstream="master"/>
   <project dest-branch="bm1688" name="fsbl" revision="69adfc60e555f0fa5702d5a4d04c853b9bc3572d" upstream="bm1688"/>
   <project dest-branch="master" name="host-tools" revision="9c032cf5ff951c26a0747b738c7c6291513ac8d7" upstream="master"/>

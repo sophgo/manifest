@@ -4,7 +4,7 @@
   
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
-  <project dest-branch="bm1688" name="build" revision="b95067d5a1653d755fd82443edf8b571d8e4c6f6" upstream="bm1688"/>
+  <project dest-branch="bm1688" name="build" revision="31d81b1c9b7bd5f43b7e4448ab669be0db5f4e1c" upstream="bm1688"/>
   <project dest-branch="master" name="cvi_rtsp" revision="c55729e6e1ba3f8b9134085deacc4713c8b041f1" upstream="master"/>
   <project dest-branch="bm1688" name="fsbl" revision="69adfc60e555f0fa5702d5a4d04c853b9bc3572d" upstream="bm1688"/>
   <project dest-branch="master" name="host-tools" revision="9c032cf5ff951c26a0747b738c7c6291513ac8d7" upstream="master"/>
