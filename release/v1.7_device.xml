@@ -14,7 +14,7 @@
   <project dest-branch="bm1688" name="libsophon" revision="f82456bbc1c70dc5830e94ffe7b043a785b34ed6" upstream="bm1688"/>
   <project dest-branch="bm1688" name="linux_5.10" revision="46457ec1a811a845d8a8e9eaef762d17a033fece" upstream="bm1688"/>
   <project dest-branch="bm1688" name="middleware" revision="befdb7dce31773acd6a358943de67e068509c695" upstream="bm1688"/>
-  <project dest-branch="bm1688" name="osdrv" revision="0b185a6c10f3ed132e61b9861b55ef3fb262d159" upstream="bm1688"/>
+  <project dest-branch="bm1688" name="osdrv" revision="4b7786149946200b8c22ad158f06622e5e44709e" upstream="bm1688"/>
   <project dest-branch="bm1688" name="oss" revision="d57a72f6a7bd9609a613fbbeb9dac93eff91b82b" upstream="bm1688"/>
   <project dest-branch="bm1688" name="ramdisk" revision="a4bf74810a3772eb08bead59fc03af1f2c6bab0b" upstream="bm1688"/>
   <project dest-branch="bm1688" name="tdl_sdk" path="cviai" revision="2781ed066040604d5a1f5646c8b724eab8e44f44" upstream="bm1688"/>
