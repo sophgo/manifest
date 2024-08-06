@@ -5,7 +5,7 @@
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
   <project dest-branch="bm1688" name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="04573bd970e8e4ac5193b5cc1addfdfd5b553d5a" upstream="bm1688"/>
-  <project dest-branch="bm1688" name="build" revision="377a455eed11635144f5cfbf1ac15e5dcc01b556" upstream="bm1688"/>
+  <project dest-branch="bm1688" name="build" revision="bfd2e6b5561f005954cc2319c79d34b239292c7a" upstream="bm1688"/>
   <project dest-branch="master" name="cvi_rtsp" revision="c55729e6e1ba3f8b9134085deacc4713c8b041f1" upstream="master"/>
   <project dest-branch="bm1688" name="fsbl" revision="4e23fa5c3ddb9fbd4d66365a285f1573490def1b" upstream="bm1688"/>
   <project dest-branch="master" name="host-tools" revision="bd66fcc8ed918eac4d6ac076ff8b1da7290b66cb" upstream="master"/>
@@ -20,6 +20,6 @@
   <project dest-branch="bm1688" name="oss" revision="d57a72f6a7bd9609a613fbbeb9dac93eff91b82b" upstream="bm1688"/>
   <project dest-branch="bm1688" name="ramdisk" revision="a4bf74810a3772eb08bead59fc03af1f2c6bab0b" upstream="bm1688"/>
   <project dest-branch="A2" name="sophliteos" revision="5035093db2ae64445a33840ffe1567340fab7c8e" upstream="A2"/>
-  <project dest-branch="master" name="sophon_media" revision="10a901c26aea091863e8cafacb41040ebbd2757b" upstream="master"/>
+  <project dest-branch="master" name="sophon_media" revision="595a17c6f14e1fc03eb296c53d04014512a01553" upstream="master"/>
   <project dest-branch="bm1688" name="u-boot-2021.10" revision="c3a09f00e76bb1ca1f122104cee2247ee0565cb6" upstream="bm1688"/>
 </manifest>
