@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="git@github.com:sophgo/" review="git@github.com:sophgo/"/>
+    <default revision="bm1688" remote="origin" sync-j="4" clone-depth="1"/>
+    <project name="build" revision="bm1688_dev"/>
+    <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="bm1688_dev"/>
+</manifest>
