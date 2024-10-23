@@ -16,6 +16,6 @@
     <project name="cvi_rtsp" revision="master"/>
     <project name="libsophon"/>
     <project name="libsophav" path="libsophon/libsophav" revision="main"/>
-    <project name="tdl_sdk" revision="master" path="cviai"/>
+    <project name="tdl_sdk" revision="master"/>
     <project name="buildroot-2021.05" revision="buildroot-2023.11" path="buildroot"/>
 </manifest>
