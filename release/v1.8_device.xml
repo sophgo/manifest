@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="git@github.com:sophgo/" review="git@github.com:sophgo/"/>
+  
+  <default remote="origin" revision="bm1688" sync-j="4"/>
+  
+  <project name="build" revision="722b771084010768d05c6bb2bfbff67064afbf1b" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="cvi_rtsp" revision="6d4a2febebdc9b6800f3b9fafb1545922837cbc4" upstream="master" dest-branch="master"/>
+  <project name="fsbl" revision="ca991652c880f953f6560b577682601eec60cf79" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="host-tools" revision="e43a8a6aceab1e8868a1a72175589b78b449d657" upstream="master" dest-branch="master"/>
+  <project name="isp" path="middleware/v2/modules/isp" revision="a6034db26d0ab151431c6ded360c613f65c9c2a8" upstream="cv186ah" dest-branch="cv186ah"/>
+  <project name="isp_tuning" revision="63053af050bcf1b0cf189f9d2877d4ca1a40af4c" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="libsophav" path="libsophon/libsophav" revision="2d8e18946b7acdf03e8570cbbe95ab4dfe41e9e2" upstream="main" dest-branch="main"/>
+  <project name="libsophon" revision="96ebcfc9fb2fa07e92b07d1030dc89d521607675" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="linux_5.10" revision="f4350c8a51b453e859e94213ee40b2e47c605717" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="middleware" revision="0d8f2eb162cf6c0a48333e0b3284c075c87e2678" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="osdrv" revision="f61c49f6ed86fffc477a78f126d56a7b1b6e7c3b" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="oss" revision="d57a72f6a7bd9609a613fbbeb9dac93eff91b82b" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="ramdisk" revision="3466071b9dd712c6fd7ce97d9032a5df8851b450" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="tdl_sdk" revision="e80e575761a4f563192255115dff120b3353b92b" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="u-boot-2021.10" revision="bf48c6cb5cb471ac5db89fbcdc459a1cda7e1999" upstream="bm1688" dest-branch="bm1688"/>
+</manifest>
