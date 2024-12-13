@@ -5,8 +5,8 @@
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
   <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="d1aee7b80a37d586ddf8859077e3a0c2741f287c" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="build" revision="8aa5905025dff9f5c790114fa7da146a601d683a" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="cvi_rtsp" revision="6d4a2febebdc9b6800f3b9fafb1545922837cbc4" upstream="master" dest-branch="master"/>
+  <project name="build" revision="886f18ea2825664c75cad8d1c5cd7933876679b8" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="cvi_rtsp" revision="f5cc30eeef80c2951da9dae5022a41aaae220e6e" upstream="master" dest-branch="master"/>
   <project name="fsbl" revision="ca991652c880f953f6560b577682601eec60cf79" upstream="bm1688" dest-branch="bm1688"/>
   <project name="host-tools" revision="e43a8a6aceab1e8868a1a72175589b78b449d657" upstream="master" dest-branch="master"/>
   <project name="isp" path="middleware/v2/modules/isp" revision="799413303f39db9c0c5ddb21ac018f442cc38e0f" upstream="bm1688" dest-branch="bm1688"/>
@@ -17,7 +17,7 @@
   <project name="linux_5.10" revision="96ee381707bc978a38748da47b8bff62360eb5c2" upstream="bm1688" dest-branch="bm1688"/>
   <project name="middleware" revision="0d8f2eb162cf6c0a48333e0b3284c075c87e2678" upstream="bm1688" dest-branch="bm1688"/>
   <project name="osdrv" revision="f682e6eea059bf7f37db42a998f930dd38d2ab73" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="oss" revision="d57a72f6a7bd9609a613fbbeb9dac93eff91b82b" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="oss" revision="a9d88d33c403c652e4d4eadbfe69b48942591d0a" upstream="master" dest-branch="master"/>
   <project name="ramdisk" revision="3466071b9dd712c6fd7ce97d9032a5df8851b450" upstream="bm1688" dest-branch="bm1688"/>
   <project name="sophliteos" revision="d59605495ce112235ecd2efab8dd969e2b8fc02a" upstream="A2" dest-branch="A2"/>
   <project name="sophon_media" revision="d92d3872c1f2a0763beee509d6b0a4857b2a23ef" upstream="master" dest-branch="master"/>
