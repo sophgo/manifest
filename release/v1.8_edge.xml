@@ -13,7 +13,7 @@
   <project name="isp_tuning" revision="63053af050bcf1b0cf189f9d2877d4ca1a40af4c" upstream="bm1688" dest-branch="bm1688"/>
   <project name="libsophav" path="libsophon/libsophav" revision="2d8e18946b7acdf03e8570cbbe95ab4dfe41e9e2" upstream="main" dest-branch="main"/>
   <project name="libsophav" path="sophon_media/libsophav" revision="2d8e18946b7acdf03e8570cbbe95ab4dfe41e9e2" upstream="main" dest-branch="main"/>
-  <project name="libsophon" revision="96ebcfc9fb2fa07e92b07d1030dc89d521607675" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="libsophon" revision="0d8cabd117d694a6b6b0c5bce094ee0ad487483b" upstream="bm1688" dest-branch="bm1688"/>
   <project name="linux_5.10" revision="96ee381707bc978a38748da47b8bff62360eb5c2" upstream="bm1688" dest-branch="bm1688"/>
   <project name="middleware" revision="0d8f2eb162cf6c0a48333e0b3284c075c87e2678" upstream="bm1688" dest-branch="bm1688"/>
   <project name="osdrv" revision="f682e6eea059bf7f37db42a998f930dd38d2ab73" upstream="bm1688" dest-branch="bm1688"/>
