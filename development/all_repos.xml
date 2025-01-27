@@ -15,7 +15,6 @@
     <project name="fsbl"/>
     <project name="oss" revision="master"/>
     <project name="cvi_rtsp" />
-    <project name="sophliteos"/>
     <project name="libsophon"/>
     <project name="libsophav" path="libsophon/libsophav"/>
     <project name="bootloader-arm64" path="ubuntu/bootloader-arm64"/>
