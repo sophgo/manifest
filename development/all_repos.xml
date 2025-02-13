@@ -11,9 +11,9 @@
     <project name="isp" path="middleware/v2/modules/isp"/>
     <project name="isp_tuning"/>
     <project name="ramdisk"/>
-    <project name="tdl_sdk" revision="master"/>
+    <project name="tdl_sdk"/>
     <project name="fsbl"/>
-    <project name="oss" revision="master"/>
+    <project name="oss"/>
     <project name="cvi_rtsp" />
     <project name="libsophon"/>
     <project name="libsophav" path="libsophon/libsophav"/>
