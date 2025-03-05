@@ -17,6 +17,7 @@
     <project name="cvi_rtsp" />
     <project name="libsophon"/>
     <project name="libsophav" path="libsophon/libsophav"/>
+    <project name="buildroot-2021.05" path="buildroot"/>
     <project name="bootloader-arm64" path="ubuntu/bootloader-arm64"/>
     <project name="sophon_media"/>
     <project name="libsophav" path="sophon_media/libsophav"/>
