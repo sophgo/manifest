@@ -22,7 +22,7 @@
   <project name="oss" revision="4a0c59d0657c8aaf737da7abb83ffb0c7c8a0006" upstream="master" dest-branch="master"/>
   <project name="ramdisk" revision="f94149275834c4b1d41179e7948a52d7a022d8e6" upstream="bm1688" dest-branch="bm1688"/>
   <project name="sophliteos" revision="d59605495ce112235ecd2efab8dd969e2b8fc02a" upstream="A2" dest-branch="A2"/>
-  <project name="sophon_media" revision="9919a5e5a16b5b6a94da222a55014d74a0b47ae5" upstream="master" dest-branch="master"/>
+  <project name="sophon_media" revision="98d45fe3e36a8cc3cf8c5a61f1fc483d27d030ba" upstream="master" dest-branch="master"/>
   <project name="tdl_sdk" revision="9d1449820406c9b853fb1d5771708294e5c2e747" upstream="bm1688" dest-branch="bm1688"/>
   <project name="u-boot-2021.10" revision="a9962c516a7675bb5d1c72e370fc745453020dc6" upstream="bm1688" dest-branch="bm1688"/>
 </manifest>
