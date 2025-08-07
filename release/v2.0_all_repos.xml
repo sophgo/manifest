@@ -18,7 +18,7 @@
   <project name="libsophon" revision="45d43d841a2779b3d78de737390d039070ad534b" upstream="bm1688" dest-branch="bm1688"/>
   <project name="linux_5.10" revision="a7fda4c00eec736578329e9749e68cd9081a6fa1" upstream="bm1688" dest-branch="bm1688"/>
   <project name="middleware" revision="48fc33b873473acd7cf0a664ee94de0f926e8153" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="osdrv" revision="805ebf24d284f4d7dbc336860ddcbe7d93c82217" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="osdrv" revision="8fc55d7a1b0da50a6bde2e4238a051ac13010ebb" upstream="bm1688" dest-branch="bm1688"/>
   <project name="oss" revision="4a0c59d0657c8aaf737da7abb83ffb0c7c8a0006" upstream="master" dest-branch="master"/>
   <project name="ramdisk" revision="f94149275834c4b1d41179e7948a52d7a022d8e6" upstream="bm1688" dest-branch="bm1688"/>
   <project name="sophliteos" revision="d59605495ce112235ecd2efab8dd969e2b8fc02a" upstream="A2" dest-branch="A2"/>
