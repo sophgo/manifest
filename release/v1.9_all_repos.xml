@@ -4,7 +4,7 @@
   
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
-  <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="5d435849cfe05d98f036d103e47a97c83a345481" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9" />
+  <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="bm1688_v1.9" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9" />
   <project name="build" revision="10d22db99b43e70696928972dd30c0b615de6983" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
   <project name="cvi_rtsp" revision="5933c7f2c225913ebb8093ca2ba0b3e318c18ae5" upstream="master" dest-branch="master"/>
   <project name="fsbl" revision="cd8db688d098bd392572f8dd5a384cf1d92812fe" upstream="bm1688" dest-branch="bm1688"/>
@@ -16,7 +16,7 @@
   <project name="libsophon" revision="84364cc8f388558138aba5b183ce1bd704317bd0" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
   <project name="linux_5.10" revision="df7851cf47b4d482590d30238b89b28be18b8bce" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
   <project name="middleware" revision="e3be19f818e2a650e868e6d5c043bf2809486796" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="osdrv" revision="163bbd580c73e726b74bbcdd60c0ba02fd24a0db" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="osdrv" revision="bm1688_v1.9" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
   <project name="oss" revision="48f06b542f2639fe21237830c852fa5080efa176" upstream="master" dest-branch="master"/>
   <project name="ramdisk" revision="c3b88be141cebc81cfc36b026c010a94d802ec18" upstream="bm1688" dest-branch="bm1688"/>
   <project name="sophliteos" revision="d59605495ce112235ecd2efab8dd969e2b8fc02a" upstream="A2" dest-branch="A2"/>
