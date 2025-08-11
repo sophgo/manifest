@@ -22,5 +22,5 @@
   <project name="sophliteos" revision="d59605495ce112235ecd2efab8dd969e2b8fc02a" upstream="A2" dest-branch="A2"/>
   <project name="sophon_media" revision="a94743b9edbd1256d21c814617a8c2202e4b4e6c" upstream="master" dest-branch="master"/>
   <project name="tdl_sdk" revision="992d97ff3d849157b719474a6380f248e9551781" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="u-boot-2021.10" revision="6f18105f3f5b611d3d0daf53fe32fc2276db8885" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
+  <project name="u-boot-2021.10" revision="115daf4ae47fe08a145e464bd0c395251515fb62" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
 </manifest>
