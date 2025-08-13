@@ -14,7 +14,7 @@
   <project name="libsophav" path="libsophon/libsophav" revision="921a0de75b99bb05ae7576ad728f03db5b5ac4ec" upstream="main" dest-branch="main"/>
   <project name="libsophav" path="sophon_media/libsophav" revision="921a0de75b99bb05ae7576ad728f03db5b5ac4ec" upstream="main" dest-branch="main"/>
   <project name="libsophon" revision="84364cc8f388558138aba5b183ce1bd704317bd0" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
-  <project name="linux_5.10" revision="df7851cf47b4d482590d30238b89b28be18b8bce" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
+  <project name="linux_5.10" revision="ac0a8f57a952458ddb19e0bd8773742093468384" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
   <project name="middleware" revision="e3be19f818e2a650e868e6d5c043bf2809486796" upstream="bm1688" dest-branch="bm1688"/>
   <project name="osdrv" revision="bm1688_v1.9" upstream="bm1688_v1.9" dest-branch="bm1688_v1.9"/>
   <project name="oss" revision="48f06b542f2639fe21237830c852fa5080efa176" upstream="master" dest-branch="master"/>

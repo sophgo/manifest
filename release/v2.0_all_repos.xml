@@ -4,7 +4,7 @@
   
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
-  <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="e6529c25e154012518d50a8639119aac441cfd9a" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="0d9181520e37945e79856d3d4c3166562f26439b" upstream="bm1688" dest-branch="bm1688"/>
   <project name="build" revision="5138cfdbe43f7a2752cbd9a01acadd9108a547f7" upstream="bm1688" dest-branch="bm1688"/>
   <project name="buildroot-2021.05" path="buildroot" revision="5a3746329958776fe5a2e1246030f7aec4cdcd18" upstream="bm1688" dest-branch="bm1688"/>
   <project name="cvi_rtsp" revision="392d785ee1d948d0889d0a6f71e90970214f38f2" upstream="master" dest-branch="master"/>
@@ -16,7 +16,7 @@
   <project name="libsophav" path="libsophon/libsophav" revision="5347f1bb7397ccdef64aa7db73b877a17eee0138" upstream="main" dest-branch="main"/>
   <project name="libsophav" path="sophon_media/libsophav" revision="5347f1bb7397ccdef64aa7db73b877a17eee0138" upstream="main" dest-branch="main"/>
   <project name="libsophon" revision="45d43d841a2779b3d78de737390d039070ad534b" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="linux_5.10" revision="a7fda4c00eec736578329e9749e68cd9081a6fa1" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="linux_5.10" revision="4ba4c1ae3f6bf24d487a2b8689d3728fdd8f3f75" upstream="bm1688" dest-branch="bm1688"/>
   <project name="middleware" revision="48fc33b873473acd7cf0a664ee94de0f926e8153" upstream="bm1688" dest-branch="bm1688"/>
   <project name="osdrv" revision="8fc55d7a1b0da50a6bde2e4238a051ac13010ebb" upstream="bm1688" dest-branch="bm1688"/>
   <project name="oss" revision="4a0c59d0657c8aaf737da7abb83ffb0c7c8a0006" upstream="master" dest-branch="master"/>
