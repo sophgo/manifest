@@ -5,7 +5,7 @@
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
   <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="e6529c25e154012518d50a8639119aac441cfd9a" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="build" revision="b1efadddcbeee808074956a02ff057523edde886" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="build" revision="5138cfdbe43f7a2752cbd9a01acadd9108a547f7" upstream="bm1688" dest-branch="bm1688"/>
   <project name="buildroot-2021.05" path="buildroot" revision="5a3746329958776fe5a2e1246030f7aec4cdcd18" upstream="bm1688" dest-branch="bm1688"/>
   <project name="cvi_rtsp" revision="392d785ee1d948d0889d0a6f71e90970214f38f2" upstream="master" dest-branch="master"/>
   <project name="fsbl" revision="19660934f36e2d009a3ae8b2d5ce54a809e2b598" upstream="bm1688" dest-branch="bm1688"/>
