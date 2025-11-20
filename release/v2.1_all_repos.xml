@@ -5,7 +5,7 @@
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
   <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="b3ffb2eabb965d3d636a777de1fc12161acbc18b" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="build" revision="0a0a9bc3b494096ca07a292ce54e777a5c1becd1" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="build" revision="5a3405aeb7e5625f529af2a0cb99249e61a194ce" upstream="bm1688" dest-branch="bm1688"/>
   <project name="buildroot-2021.05" path="buildroot" revision="5a3ce9bf3717bae68f94536ce139c4967195a7a0" upstream="bm1688" dest-branch="bm1688"/>
   <project name="cvi_rtsp" revision="dd4597c6c0350c8f0c5a2fd98d49665181aa5a85" upstream="master" dest-branch="master"/>
   <project name="fsbl" revision="f53dd394476f0f8ddaa8a39a29cbb6955b68de4d" upstream="bm1688" dest-branch="bm1688"/>
@@ -15,7 +15,7 @@
   <project name="isp_tuning" revision="f392a99abd9d10ad92b0e3a26979f1a52cd6c72f" upstream="bm1688" dest-branch="bm1688"/>
   <project name="libsophav" path="libsophon/libsophav" revision="b559d92b0217c476319763d00217baf4d8b2d817" upstream="main" dest-branch="main"/>
   <project name="libsophav" path="sophon_media/libsophav" revision="b559d92b0217c476319763d00217baf4d8b2d817" upstream="main" dest-branch="main"/>
-  <project name="libsophon" revision="990aea5fe6a4770e05b8167b6346cf8911b4adbb" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="libsophon" revision="b07894b690399928d3f9af2221f00602661473ee" upstream="bm1688" dest-branch="bm1688"/>
   <project name="linux_5.10" revision="7bc3705129ea959cc2afbdb5d39fe94f6142f754" upstream="bm1688" dest-branch="bm1688"/>
   <project name="middleware" revision="940bcbb999bb05f5c5cabdd3826ab9fefd3d3b35" upstream="bm1688" dest-branch="bm1688"/>
   <project name="osdrv" revision="3014ba223a86975ee341ff65869c70a2053be5a3" upstream="bm1688" dest-branch="bm1688"/>
