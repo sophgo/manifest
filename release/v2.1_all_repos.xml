@@ -13,8 +13,8 @@
   <project name="isp" path="middleware/v2/modules/isp" revision="1b1a4c5b1a28cc6cf189a4b23586dd5894997ddc" upstream="bm1688" dest-branch="bm1688"/>
   <project name="isp-tool-daemon" revision="6feb32b7bb77e905a14ec715d64da8af7d60a119" upstream="bm1688" dest-branch="bm1688"/>
   <project name="isp_tuning" revision="f392a99abd9d10ad92b0e3a26979f1a52cd6c72f" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="libsophav" path="libsophon/libsophav" revision="b559d92b0217c476319763d00217baf4d8b2d817" upstream="main" dest-branch="main"/>
-  <project name="libsophav" path="sophon_media/libsophav" revision="b559d92b0217c476319763d00217baf4d8b2d817" upstream="main" dest-branch="main"/>
+  <project name="libsophav" path="libsophon/libsophav" revision="45d5ba0f2f10d15c58e7a071d9d884c5211f3a52" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="libsophav" path="sophon_media/libsophav" revision="45d5ba0f2f10d15c58e7a071d9d884c5211f3a52" upstream="bm1688" dest-branch="bm1688"/>
   <project name="libsophon" revision="b07894b690399928d3f9af2221f00602661473ee" upstream="bm1688" dest-branch="bm1688"/>
   <project name="linux_5.10" revision="7bc3705129ea959cc2afbdb5d39fe94f6142f754" upstream="bm1688" dest-branch="bm1688"/>
   <project name="middleware" revision="940bcbb999bb05f5c5cabdd3826ab9fefd3d3b35" upstream="bm1688" dest-branch="bm1688"/>
