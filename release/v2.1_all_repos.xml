@@ -5,10 +5,10 @@
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
   <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="b3ffb2eabb965d3d636a777de1fc12161acbc18b" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="build" revision="2dcdb622d3ff6851e95720e9693b5fa36ff1b2f4" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="build" revision="bm1688_v2.1" upstream="bm1688_v2.1" dest-branch="bm1688_v2.1"/>
   <project name="buildroot-2021.05" path="buildroot" revision="5a3ce9bf3717bae68f94536ce139c4967195a7a0" upstream="bm1688" dest-branch="bm1688"/>
   <project name="cvi_rtsp" revision="dd4597c6c0350c8f0c5a2fd98d49665181aa5a85" upstream="master" dest-branch="master"/>
-  <project name="fsbl" revision="f53dd394476f0f8ddaa8a39a29cbb6955b68de4d" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="fsbl" revision="bm1688_v2.1" upstream="bm1688_v2.1" dest-branch="bm1688_v2.1"/>
   <project name="host-tools" revision="103c66f126fa98fcaa8b54f37fa06f6b293fd074" upstream="master" dest-branch="master"/>
   <project name="isp" path="middleware/v2/modules/isp" revision="1b1a4c5b1a28cc6cf189a4b23586dd5894997ddc" upstream="bm1688" dest-branch="bm1688"/>
   <project name="isp-tool-daemon" revision="6feb32b7bb77e905a14ec715d64da8af7d60a119" upstream="bm1688" dest-branch="bm1688"/>
