@@ -4,8 +4,8 @@
   
   <default remote="origin" revision="bm1688" sync-j="4"/>
   
-  <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="1e93cc70f0da5cc1ecc52f0653bb94c64d300cd9" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="build" revision="09cd1735ce917c886c777aba2a4a725d165998da" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="bootloader-arm64" path="ubuntu/bootloader-arm64" revision="849df74521d61b661dd032167014133f555601e4" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="build" revision="a7443b5208a6fa97d33fc639c90e7de7e7513b54" upstream="bm1688" dest-branch="bm1688"/>
   <project name="buildroot-2021.05" path="buildroot" revision="5a3ce9bf3717bae68f94536ce139c4967195a7a0" upstream="bm1688" dest-branch="bm1688"/>
   <project name="cvi_rtsp" revision="5f22e785dbe0480677380b65612c5d57d7c94c8a" upstream="master" dest-branch="master"/>
   <project name="fsbl" revision="95572b3adb929cfc0501927194aa65f6cc719d51" upstream="bm1688" dest-branch="bm1688"/>
@@ -13,15 +13,15 @@
   <project name="isp" path="middleware/v2/modules/isp" revision="bed0c29d5bc02d14cf011b076dea75898c9fb0b0" upstream="bm1688" dest-branch="bm1688"/>
   <project name="isp-tool-daemon" revision="3903251432478b076d894fc2f8361f73b435f51d" upstream="bm1688" dest-branch="bm1688"/>
   <project name="isp_tuning" revision="f392a99abd9d10ad92b0e3a26979f1a52cd6c72f" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="libsophav" path="libsophon/libsophav" revision="b7117a3bbf771d46473414e8f15150f25c20df40" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="libsophav" path="sophon_media/libsophav" revision="b7117a3bbf771d46473414e8f15150f25c20df40" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="libsophon" revision="40e6f9326b39ee59e409eb100004296bf1ae2b08" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="libsophav" path="libsophon/libsophav" revision="018c3140404659074557b4c324ea8d48c670407d" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="libsophav" path="sophon_media/libsophav" revision="018c3140404659074557b4c324ea8d48c670407d" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="libsophon" revision="c2ccf60eea808f42400785502dbf473489f8cdf1" upstream="bm1688" dest-branch="bm1688"/>
   <project name="linux-common" revision="ca8e7e389f2e47d4bc59d47daac766a874094b82" upstream="linux-6.12.y" dest-branch="linux-6.12.y"/>
-  <project name="linux_5.10" revision="c329061d7d69252149f736af7ab2449bc3d96843" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="linux_5.10" revision="8af43cebc583c0a88045e63b07ddbc1184b3ad04" upstream="bm1688" dest-branch="bm1688"/>
   <project name="middleware" revision="432a840be6b3a3601310437a14747cc8082323f9" upstream="bm1688" dest-branch="bm1688"/>
-  <project name="osdrv" revision="ad1dff0c9a4ed6ea43c92696ab8ac994032dcf5a" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="osdrv" revision="6ec7ce3199186e5d29e2c96f8d6e25fae7038c40" upstream="bm1688" dest-branch="bm1688"/>
   <project name="oss" revision="2a48130226c06a2ad0dc303dc7d146da92cdfdd3" upstream="master" dest-branch="master"/>
-  <project name="ramdisk" revision="131912ef3bd325ce62a5f260b4384da0af986ba1" upstream="bm1688" dest-branch="bm1688"/>
+  <project name="ramdisk" revision="b53d1d9d2597f6d5623915437b6324a1ac1997be" upstream="bm1688" dest-branch="bm1688"/>
   <project name="sophliteos" revision="d59605495ce112235ecd2efab8dd969e2b8fc02a" upstream="A2" dest-branch="A2"/>
   <project name="sophon_media" revision="a90beb0e1e87ed9fc8e3df64670844af63056fec" upstream="master" dest-branch="master"/>
   <project name="tdl_sdk" revision="c04e75ab097adb001627b7b76f0c448a05c5b2ec" upstream="bm1688" dest-branch="bm1688"/>
