@@ -5,6 +5,7 @@
     <project name="host-tools" revision="master"/>
     <project name="build"/>
     <project name="u-boot-2021.10"/>
+    <project name="trusted-firmware-a" revision="edge_dev"/>
     <project name="linux_5.10"/>
     <project name="linux-common" revision="linux-6.12.y"/>
     <project name="osdrv"/>
